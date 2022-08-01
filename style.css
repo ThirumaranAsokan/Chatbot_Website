@@ -2,7 +2,7 @@
 :root {
   --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
   --msger-bg: #fff;
-  --left-msg-bg: linear-gradient(to right, #f895b9, #f44183);
+  --left-msg-bg: linear-gradient(to right, #95f5f8, #f441c1);
   --right-msg-bg: #ececec;
 }
 html {
@@ -124,7 +124,7 @@ body {
 .msger-inputarea {
   display: flex;
   padding: 10px;
-  background: #f44183;
+  background: #f441dc;
   border-radius: 0px 0px 10px 10px;
 }
 .msger-inputarea * {
