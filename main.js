@@ -14,6 +14,7 @@ const prompts = [
   ["who created you", "who made you"],
   [
     "your name please",
+      "What is time",
     "your name",
     "may i know your name",
     "what is your name",
@@ -50,7 +51,7 @@ const replies = [
   ["I am infinite"],
   ["I am just a bot", "I am a bot. What are you?"],
   ["The one true God, JavaScript"],
-  ["I am ThiruBot", "I don't have; Thiru doesn't give me name "],
+  ["I am ThiruBot", "I don't have; Thiru doesn't give me name ","Check the time below chat!"],
   ["I love you too", "Me too"],
   ["Have you ever felt bad?", "Glad to hear it"],
   ["Why?", "Why? You shouldn't!", "Try watching TV"],

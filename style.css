@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+2&display=swap");
 :root {
-  --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-  --msger-bg: #fff;
+  --body-bg: linear-gradient(135deg, rgba(17, 103, 231, 0.02) 0%, rgba(195, 207, 226, 0) 100%);
+  --msger-bg: #41f4d3;
   --left-msg-bg: linear-gradient(to right, #95f5f8, #f441c1);
   --right-msg-bg: #ececec;
 }
@@ -65,7 +65,7 @@ body {
   width: 6px;
 }
 .msger-chat::-webkit-scrollbar-track {
-  background: #ddd;
+  background: #b3ee3e;
 }
 .msger-chat::-webkit-scrollbar-thumb {
   background: #bdbdbd;
