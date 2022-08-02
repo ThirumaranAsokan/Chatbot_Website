@@ -16,11 +16,11 @@ html {
   box-sizing: inherit;
 }
 body {
-  display: compact;
+  display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: var(--body-bg);
+  background-image: url("j4o.gif");
   font-family: "Baloo 2", cursive;
 }
 .msger {
@@ -40,7 +40,7 @@ body {
   justify-content: center;
   padding: 10px;
   border-radius: 10px 10px 0px 0px;
-  background: #eee;
+  background: rgba(34, 34, 34, 0);
   color: #666;
 }
 .msger-header-title{
